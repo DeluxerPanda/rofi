@@ -7,8 +7,5 @@ configuration{
     location: 0;
     disable-history: false;
     hide-scrollbar: true;
-    display-drun: "   Apps ";
-    sidebar-mode: true;
 }
-
-@theme "catppuccin-mocha"
+@theme "catppuccin-mocha.rasi"
