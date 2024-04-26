@@ -2,7 +2,7 @@
 
 ## You need to install
 ```
-rofi rofi-calc rofi-emoji
+rofi
 ```
 
 # Credits: <a href=https://git.zyner.org/dotfiles/arch/src/branch/main/dot_config/rofi>Vermium</a>
