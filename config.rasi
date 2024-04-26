@@ -1,5 +1,5 @@
 configuration{
-    modi: "drun,window,ssh,calc,emoji";
+    modi: "drun";
     icon-theme: "Numix";
     show-icons: true;
     terminal: "st";
@@ -8,10 +8,6 @@ configuration{
     disable-history: false;
     hide-scrollbar: true;
     display-drun: "   Apps ";
-    display-window: " 﩯  Window";
-    display-ssh: "   SSH";
-    display-calc: "󰪚 Calculator";
-    display-emoji: "󰞅 Emoji";
     sidebar-mode: true;
 }
 
