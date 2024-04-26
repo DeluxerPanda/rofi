@@ -5,4 +5,4 @@
 rofi rofi-calc rofi-emoji
 ```
 
-# Credits: <a href=https://git.zyner.org/dotfiles/arch/-/tree/main/dot_config/rofi>Vermium</a>
+# Credits: <a href=https://git.zyner.org/dotfiles/arch/src/branch/main/dot_config/rofi>Vermium</a>
